@@ -1,2 +1,2 @@
 # Duchess
-*Code and designs for my 2012 KTM 690 Duke*
+![Calamari Race Team](https://b.thumbs.redditmedia.com/vhHAA6FxvacqXK0ZIZwk41liapbd3AWy6B3vhP2kfsQ.png)
