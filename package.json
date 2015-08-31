@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cbas/duchess#readme",
   "dependencies": {
+    "babel": "^5.8.21",
     "serial-obd": "^0.2.1",
     "serialport": "^1.7.4"
   }
